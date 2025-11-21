@@ -10,7 +10,7 @@
 
 ### 🌟 The Ultimate Collection of n8n Automation Workflows
 
-**[🔍 Browse Online](https://zie619.github.io/n8n-workflows)** • **[📚 Documentation](#documentation)** • **[🤝 Contributing](#contributing)** • **[📄 License](#license)**
+**[🔍 Browse Online](https://github.com/Akshansh-Sharma/n8n-workflows_Bundle.git)** • **[📚 Documentation](#documentation)** • **[🤝 Contributing](#contributing)** • **[📄 License](#license)**
 
 </div>
 
@@ -21,7 +21,7 @@
 ### 🎉 Latest Updates (November 2025)
 - **🔒 Enhanced Security**: Full security audit completed, all CVEs resolved
 - **🐳 Docker Support**: Multi-platform builds for linux/amd64 and linux/arm64
-- **📊 GitHub Pages**: Live searchable interface at [zie619.github.io/n8n-workflows](https://zie619.github.io/n8n-workflows)
+- **📊 GitHub Pages**: Live searchable interface at [Akshansh-Sharma.github.io/n8n-workflows_Bundle](https://github.com/Akshansh-Sharma/n8n-workflows_Bundle)
 - **⚡ Performance**: 100x faster search with SQLite FTS5 integration
 - **🎨 Modern UI**: Completely redesigned interface with dark/light mode
 
@@ -30,7 +30,7 @@
 ## 🌐 Quick Access
 
 ### 🔥 Use Online (No Installation)
-Visit **[zie619.github.io/n8n-workflows](https://zie619.github.io/n8n-workflows)** for instant access to:
+Visit **[Akshansh-Sharma.github.io/n8n-workflows_Bundle](https://github.com/Akshansh-Sharma/n8n-workflows_Bundle)** for instant access to:
 - 🔍 **Smart Search** - Find workflows instantly
 - 📂 **15+ Categories** - Browse by use case
 - 📱 **Mobile Ready** - Works on any device
@@ -93,7 +93,7 @@ python run.py
 ### 🐳 Docker Installation
 ```bash
 # Using Docker Hub
-docker run -p 8000:8000 zie619/n8n-workflows:latest
+docker run -p 8000:8000 Akshansh-sharma/n8n-workflows_Bundle:latest
 
 # Or build locally
 docker build -t n8n-workflows .
@@ -167,8 +167,8 @@ n8n-workflows/
 We love contributions! Here's how you can help:
 
 ### Ways to Contribute
-- 🐛 **Report bugs** via [Issues](https://github.com/Zie619/n8n-workflows/issues)
-- 💡 **Suggest features** in [Discussions](https://github.com/Zie619/n8n-workflows/discussions)
+- 🐛 **Report bugs** 
+- 💡 **Suggest features** 
 - 📝 **Improve documentation**
 - 🔧 **Submit workflow fixes**
 - ⭐ **Star the repository**
@@ -206,7 +206,7 @@ git push origin feature/amazing-feature
 - ✅ **Regular security scanning**
 
 ### Reporting Security Issues
-Please report security vulnerabilities to the maintainers via [Security Advisory](https://github.com/Zie619/n8n-workflows/security/advisories/new).
+Please report security vulnerabilities to the maintainers via [Security Advisory](https://github.com/Akshansh-Sharma/n8n-workflows_Bundle/security/advisories/new).
 
 ---
 
@@ -232,9 +232,9 @@ If you find this project helpful, please consider:
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/zie619)
-[![Star on GitHub](https://img.shields.io/badge/Star%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Zie619/n8n-workflows)
-[![Follow](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zie619)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+[![Star on GitHub](https://img.shields.io/badge/Star%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Akshansh-Sharma/n8n-workflows_Bundle)
+[![Follow](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_akshanshsharma)
 
 </div>
 
@@ -270,5 +270,6 @@ If you find this project helpful, please consider:
 ### ⭐ Star us on GitHub — it motivates us a lot!
 
 Made with ❤️ by [Zie619](https://github.com/Zie619) and [contributors](https://github.com/Zie619/n8n-workflows/graphs/contributors)
+
 
 </div>
