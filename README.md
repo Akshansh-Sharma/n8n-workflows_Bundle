@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 Zie619
+Copyright (c) 2025 AK
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -240,21 +240,6 @@ If you find this project helpful, please consider:
 
 ---
 
-## 📊 Stats & Badges
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/Zie619/n8n-workflows?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Zie619/n8n-workflows?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Zie619/n8n-workflows?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Zie619/n8n-workflows)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Zie619/n8n-workflows)
-![GitHub last commit](https://img.shields.io/github/last-commit/Zie619/n8n-workflows)
-![GitHub repo size](https://img.shields.io/github/repo-size/Zie619/n8n-workflows)
-
-</div>
-
----
 
 ## 🙏 Acknowledgments
 
@@ -269,7 +254,7 @@ If you find this project helpful, please consider:
 
 ### ⭐ Star us on GitHub — it motivates us a lot!
 
-Made with ❤️ by [Zie619](https://github.com/Zie619) and [contributors](https://github.com/Zie619/n8n-workflows/graphs/contributors)
 
 
 </div>
+
