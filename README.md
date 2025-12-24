@@ -6,7 +6,7 @@
 ![Workflows](https://img.shields.io/badge/Workflows-4343+-blue?style=for-the-badge)
 ![Integrations](https://img.shields.io/badge/Integrations-365+-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/zie619)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com)
 
 ### 🌟 The Ultimate Collection of n8n Automation Workflows
 
@@ -257,4 +257,5 @@ If you find this project helpful, please consider:
 
 
 </div>
+
 
